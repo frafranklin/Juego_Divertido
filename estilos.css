@@ -1,3 +1,13 @@
 body{
-    background-color: #ffff;
+    background-color: #e2dddd;
+}
+header{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: red;
+}
+li{
+    display: fle;
 }
